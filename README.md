@@ -5,4 +5,4 @@ cd Mat_on_Pangolin
 
 make
 
-./bin/mat_on_pangolin images/1.png
+./bin/mat_on_pangolin image/1.png
